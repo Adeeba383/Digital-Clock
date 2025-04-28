@@ -14,4 +14,4 @@ This is a simple digital clock built using HTML, CSS, and JavaScript. The clock 
 - JavaScript
 
 # Preview this program
-View this clock on your browsers using this link: 
+View this clock on your browsers using this link: https://adeeba383.github.io/Digital-Clock/
