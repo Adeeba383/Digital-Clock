@@ -1,0 +1,28 @@
+body{
+    background-image: url(hourglass.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+#clock-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#clock{
+    font-family: monospace, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    backdrop-filter: blur(3px);
+    color: rgb(116, 63, 10);
+}
+
+         
